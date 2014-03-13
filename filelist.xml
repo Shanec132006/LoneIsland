@@ -1,6 +1,6 @@
-<download name="photoreal xtreme ontechable" type="Map">
+<download name="lone_island" type="Map">
  <index src="filelist.xml" dest="filelist.xml"/>
  <files>
-  <file src="level.pak" dest="level.pak" size="13635451" md5="2fdfb38d15e3f48cb8932988092b373d"/>
+  <file src="level.pak" dest="level.pak" size="13630071" md5="379645a050c7e8f482c129a1d429ecc3"/>
  </files>
 </download>

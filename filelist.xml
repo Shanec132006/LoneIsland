@@ -1,6 +1,6 @@
-<download name="lone_island" type="Map">
+<download name="Lone_Island" type="Map">
  <index src="filelist.xml" dest="filelist.xml"/>
  <files>
-  <file src="level.pak" dest="level.pak" size="13630144" md5="8a664aa0c8faaa7782cff35edc641e99"/>
+  <file src="level.pak" dest="level.pak" size="13639022" md5="5e677fe4e5c359e8a3698cb6a1e007f5"/>
  </files>
 </download>
